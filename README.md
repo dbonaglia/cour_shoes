@@ -17,3 +17,4 @@
 #### Bonus
 - Créer un seul repo Github pour le binôme, et travailler à deux sur le même repo. (En s'ajoutant en tant que collaborateurs sur Github)
 - Utiliser le système de branches de Git
+- Utiliser Flexbox en CSS pour le placement des produits
