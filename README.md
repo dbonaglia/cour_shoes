@@ -5,7 +5,7 @@
 - Réaliser la page de sélection de produits d'une boutique e-commerce de chaussures.
 - Envoyer tout son code sur son GitHub sur un repo fraichement crée pour l'occasion
 
-## Design actuel
+## Design attendu
 
 ![Rendu](rendu/rendu-selection.png)
 
