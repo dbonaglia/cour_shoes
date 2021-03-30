@@ -1,14 +1,19 @@
 # Projet Boutique
 
-## Objectif
+## Objectifs
 
-La page "sélection" d'une boutique de chaussures est déjà mise en place.  
-Cependant, les soldes n'ont pas du tout été prévus, et il faut rapidement faire l'intégration correspondante.  
-Bien entendu, le WebDesigner en a profité pour ajouter quelques _fioritures_ :wink:
+- Réaliser la page de sélection de produits d'une boutique e-commerce de chaussures.
+- Envoyer tout son code sur son GitHub sur un repo fraichement crée pour l'occasion
 
 ## Design actuel
 
 ![Rendu](rendu/rendu-selection.png)
 
-- lire le code source actuel et l'analyser
-- DevTools de Chrome est vraiment très utile pour analyser une intégration existante :nerd_face:
+### Consignes
+- Vous devez réaliser ce projet en binôme.
+- Votre projet doit être disponible sur un repo Github à la fin de la matinée, et à jour avec l'avancement actuel de votre projet en local sur votre machine. (Pas grave si le code HTML/CSS n'est pas terminé)
+- Vous n'êtes pas obligés d'utiliser le système de branches de Git
+
+#### Bonus
+- Créer un seul repo Github pour le binôme, et travailler à deux sur le même repo. (En s'ajoutant en tant que collaborateurs sur Github)
+- Utiliser le système de branches de Git
